@@ -11,4 +11,4 @@
     <br><br/>
     <img align="center" alt="Atari" height="800" width="370" src="https://lh3.googleusercontent.com/pw/ADCreHeghTwTKpygtQD0prJFEz8W7U_RC2zPSqWfHBKx0aPqPOOCrz5pVVNQpSOBJcg89rA-HbJR-Yy02c5YsfUNkmRpLg3tO-OFvKP7FUh2PACAi5-yrjyY8KIOqGRJqw8Szfsae7HVlmHjKUGq8RuiDuY=w393-h845-s-no?authuser=1">
     <br><br/>
-     <label for="Picture">Take a picture of your face:</label><input type="file" name="picture" accept="image/*" capture="user" /><a href = "https://adobeaero.app.link/WEpIcOz9SDb"><img align="center" alt="Atari" height="800" width="370" src="https://lh3.googleusercontent.com/pw/ADCreHeZssP1KcAWqkdSri0t23ex7NteN7EqO2-ezflcHVWppy_W-Uw4unf-Ux9RT9WfmbuWraFWqGsapUc8NEhPKRqqLP8FIrZz5AXb4IurxD6DuPhCAGc1czowSrK-Ut336qe59-YXt9lrhAruY6C9qDs=w389-h845-s-no?authuser=1">label {display: block;margin-top: 1rem;}
+    <a href = "https://adobeaero.app.link/WEpIcOz9SDb"><img align="center" alt="Atari" height="800" width="370" src="https://lh3.googleusercontent.com/pw/ADCreHeZssP1KcAWqkdSri0t23ex7NteN7EqO2-ezflcHVWppy_W-Uw4unf-Ux9RT9WfmbuWraFWqGsapUc8NEhPKRqqLP8FIrZz5AXb4IurxD6DuPhCAGc1czowSrK-Ut336qe59-YXt9lrhAruY6C9qDs=w389-h845-s-no?authuser=1">
