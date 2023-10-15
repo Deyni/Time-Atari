@@ -7,6 +7,7 @@
     <br><br/>
     <img align="center" alt="Atari" height="800" width="370" src="https://lh3.googleusercontent.com/pw/ADCreHfdgMkYbRBmGq2BwdFV-f-DmSECbKawyzYDzqvlP96419lJu4f3Q6h3WNjrAuNP38VIOlwr5Offs3r9ji6lgoJpLVvaMiQJQW4Rbe3HTE-ENQR1mVXtNCtBT9ZxXyr8Al_WFr9mbvtHXWQquxEyG6o=w386-h845-s-no?authuser=1">
     <br><br/>
+       <div style="text-align: center;">O anunciante terá uma aba para criar seu anúncio utilizando realidade aumentada.</div>
     <img align="center" alt="Atari" height="800" width="370" src="https://lh3.googleusercontent.com/pw/ADCreHfaBLzW_I5Fv18vBWYlf934ZYvUpgmNhiuuWjfOx3IpEvl9VYpXx5CoAqmeEwonShmTBmTotw0lfeZCuAVNz7S6FPs9hWbeIjKfXKtITmv6ZU2eFR1YdER-Dt9Zdhk3nR8gChUfB_sSZNnGMcn_Fd8=w395-h845-s-no?authuser=1">
     <br><br/>
      <div style="text-align: center;">Anúncio criado pelo vendedor</div>
